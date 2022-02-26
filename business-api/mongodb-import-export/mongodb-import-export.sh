@@ -1,9 +1,4 @@
-#!/bin/bash
-
-# url for local instance
 export_host="127.0.0.1:30046"
-# URL for homologation instance
-# Example: "terrabrasilis2.dpi.inpe.br:30046"
 import_host="127.0.0.1:30046"
 
 #++++++++++++++++++++++++++++++++++++++++++++++++++++++
